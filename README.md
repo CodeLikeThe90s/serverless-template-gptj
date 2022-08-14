@@ -61,5 +61,4 @@ curl -X POST -H "Content-Type: application/json" -d '{"apiKey":"YOUR_API_KEY", "
 ```
 
 <br>
-
 ## Use Banana for scale.
